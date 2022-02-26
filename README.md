@@ -1,20 +1,24 @@
 ### ## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br><br>
+
+ <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110f13036fb576ad8d1342cb18681cd11d0afb14aa&rid=giphy.gif&ct=g" width="500" height="320" />
+ 
+ <div align="center">
+  <a href="https://github.com/Vitorduarte0">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitorduarte0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorduarte0&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...
-
-<div align="center">
-  <a href="https://github.com/Vitorduarte0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitorduarte0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorduarte0&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
 
 **Languages and Tools:**  
 
