@@ -1,4 +1,4 @@
-## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Bem-vindo ao meu gitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
 Olá, meu nome é Vitor Duarte. E sou um apaixonado no mundo de tecnologia. Atualmente estudante de web full-stack pela a labenu.
