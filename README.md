@@ -1,6 +1,7 @@
-### ## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br>
 
-<br><br>
+Olá, meu nome é Vitor Duarte. E sou um apaixonado no mundo de tecnologia. Atualmente estudante de web full-stack pela a labenu.
 
  <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110f13036fb576ad8d1342cb18681cd11d0afb14aa&rid=giphy.gif&ct=g" width="500" height="320" />
  
@@ -11,14 +12,7 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+- 😄 Pronomes: ele/dele
 
 **Languages and Tools:**  
 
