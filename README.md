@@ -10,6 +10,7 @@ Já terminei o modulo do front end e agora estou no back end.
  <div align="center">
   <a href="https://github.com/Vitorduarte0">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitorduarte0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorduarte0&theme=dracula&hide_border=false&&layout=compact"/>
   
   </a>
 </div>
