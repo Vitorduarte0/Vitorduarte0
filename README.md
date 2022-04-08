@@ -17,8 +17,8 @@ Olá, meu nome é Vitor Duarte. E sou um amante no mundo da tecnologia. Atualmen
   <img align="center" alt="Tshadz-NodeJs" height="30" width="40" 
   <img align="center" alt="Tshadz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tshadz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img src="https://www.styled-components.com/atom.png">
- <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png">
+  <img align="center" alt="Tshadz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Tshadz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  </div>
  
  ## 📚 Learning
