@@ -37,10 +37,6 @@ Olá, meu nome é Vitor Duarte. E sou um amante no mundo da tecnologia. Atualmen
   <img width=400em src="https://github-readme-stats.vercel.app/api?username=Vitorduarte0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
- ## 🎮 Games
- <div style={ display: flex }>
-  <img width=400em src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/>
-  <img width=400em src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
-</div>
+
 
 </div>
