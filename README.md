@@ -35,7 +35,6 @@ Olá, meu nome é Vitor Duarte. E sou um amante no mundo da tecnologia. Atualmen
 
 <div style={ display: flex }>
   <img width=400em src="https://github-readme-stats.vercel.app/api?username=Vitorduarte0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorduarte0&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/>
 </div>
   
   </a>
