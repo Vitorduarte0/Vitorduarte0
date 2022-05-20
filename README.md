@@ -29,6 +29,7 @@ Olá, meu nome é Vitor Duarte. E sou um amante no mundo da tecnologia. Atualmen
  
   <div style={ display: flex }>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </div>
 
    ## ⭐️ GitHub Stats
