@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu gitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
-Olá, meu nome é Vitor Duarte. E sou um amante no mundo da tecnologia. Atualmente formado pelo bootcamp de 1000 horas pelo o bootcamp de programação na área de web full-stack pela a labenu. 
+Olá, meu nome é Vitor Duarte. E sou um amante no mundo da tecnologia. Atualmente formado pelo bootcamp de 1000 horas de programação na área de web full-stack pela a labenu. 
 - 😄 Pronomes: ele/dele
 ## 🔍 Contatos
 <div> 
