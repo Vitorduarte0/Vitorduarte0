@@ -4,7 +4,7 @@ Sou Vitor Duarte Passo, tenho 21 anos e trabalho há dois anos como Analista de 
 
 - 😄 Pronomes: ele/dele
 
-- ## 🔍 Contatos
+ ## 🔍 Contatos
 <div> 
   <a href="https://www.instagram.com/vitor_duarte0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "vitorsanta.cal.10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
