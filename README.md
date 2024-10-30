@@ -1,9 +1,10 @@
 ## Bem-vindo ao meu gitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 Sou Vitor Duarte Passo, tenho 21 anos e trabalho há dois anos como Analista de Desenvolvimento. Minha trajetória na tecnologia começou no ensino médio, quando fiz um curso técnico em informática e descobri minha paixão por programação. Desde então, venho me aprofundando no mundo tech e atualmente trabalho com desenvolvimento na area de sustentação de sistemas focados em gestão de ativos elétricos. Além do lado profissional, sou um grande fã do universo gamer, que é onde busco inspiração e momento de lazer.
-<br>
+
 - 😄 Pronomes: ele/dele
-## 🔍 Contatos
+
+- ## 🔍 Contatos
 <div> 
   <a href="https://www.instagram.com/vitor_duarte0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "vitorsanta.cal.10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
