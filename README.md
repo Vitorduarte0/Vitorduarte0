@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu gitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
-Olá, meu nome é Vitor Duarte. E sou um amante no mundo da tecnologia. Atualmente formado pelo bootcamp de 1000 horas de programação na área de web full-stack pela a labenu. 
+Sou Vitor Duarte Passo, tenho 21 anos e trabalho há dois anos como Analista de Desenvolvimento. Minha trajetória na tecnologia começou no ensino médio, quando fiz um curso técnico em informática e descobri minha paixão por programação. Desde então, venho me aprofundando no mundo tech e atualmente trabalho com desenvolvimento na area de sustentação de sistemas focados em gestão de ativos elétricos. Além do lado profissional, sou um grande fã do universo gamer, que é onde busco inspiração e momento de lazer. 
 - 😄 Pronomes: ele/dele
 ## 🔍 Contatos
 <div> 
